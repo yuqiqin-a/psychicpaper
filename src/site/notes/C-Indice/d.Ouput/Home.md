@@ -20,10 +20,8 @@
 4. [[D-Source/使用requests下载和上传数据|使用requests下载和上传数据]]
 5. [[D-Source/使用Pydub切分单词音频|使用pydub切分单词音频]]
 6. [[D-Source/使用Matplotlib绘制数学函数图像|使用matplotlib绘制数学函数图像]]
-7. [[D-Source/使用NLTK寻找真题原句出处|使用NLTK寻找真题原句出处]]
-8. [[D-Source/使用NLTK计算词频|使用NLTK计算词频]]
-9. [[D-Source/给不会编程的教研同事写Python脚本|给不会编程的教研同事写Python脚本]]
-10. [[D-Source/使用pandas和docx一键生成出版稿件内容|使用pandas和docx一键生成出版稿件内容]]
+7. [[D-Source/给不会编程的教研同事写Python脚本|给不会编程的教研同事写Python脚本]]
+8. [[D-Source/使用pandas和docx一键生成出版稿件内容|使用pandas和docx一键生成出版稿件内容]]
 
 
 ##  英语教研
