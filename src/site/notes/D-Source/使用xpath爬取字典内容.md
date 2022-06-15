@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/d-source/xpath/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+# 使用xpath爬取字典内容
 最近因为业务需要批量获取一些权威字典的内容，比如[韦氏字典](https://www.merriam-webster.com/)的音节划分，比如[词源字典](https://www.etymonline.com)中的词根词缀解释。
 
 所有这些工作其实都可以提一个需求给开发的，但是提需求流程好长，耗时也好久噢。因为自己感兴趣，所以就索性自己动手研究了，当然这途中也少不了开发朋友的帮忙。
