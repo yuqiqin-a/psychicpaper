@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/d-source/python/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+# 写Python脚本给不会编程的同事处理文本
 作为英语编辑和教研，我们经常需要做一些处理文本的工作。
 
 最常见的场景时筛词，比如拿着考研的词表去匹配小学的词表，看看考研考纲词里有多少个小学词汇。
