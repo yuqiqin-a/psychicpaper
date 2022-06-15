@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/d-source/pydub/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+# 使用pydub切分音频
 前段时间另一个项目的负责人在做一款听力相关的demo测试，原定在周五下班前给开发一批单词音频的数据，但是因为原本找的一批单词音频音质很差，而且读音有误，眼看快要上线了。情急之下找了另外一个语音合成的软件，临时合成了200多个音频，但是导出的时候给的是完整的一个mp3，可开发的要求是单独的音频文件，现场用Adobe Premiere Pro切肯定也来不及了。
 
 于是就找到了我，还好StackOverflow相关帖子很多，用pydub就能解决，代码也很好理解，具体代码如下：
