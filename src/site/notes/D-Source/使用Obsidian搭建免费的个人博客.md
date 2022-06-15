@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/d-source/obsidian/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
+# 使用Obsidian搭建免费的个人博客
 ## 具体流程
 ### 配置
 完整的流程可以参照原作者的[示范页面](https://notes.ole.dev/set-up-your-digital-garden/)以及Obsidian社区插件内部的介绍，但是并没有中文翻译，以下为我的精简版总结：
