@@ -25,10 +25,11 @@
 6. [[D-Source/写Python脚本给不会编程的同事处理文本|写Python脚本给不会编程的同事处理文本]]
 
 ### 教研
-
+1. [[D-Source/各大字典的单词音节划分问题|各大字典的单词音节划分问题]]
 
 ###  建站
 1. [[D-Source/使用Obsidian搭建免费的个人博客|使用Obsidian搭建免费的个人博客]]
+2. [[D-Source/购买和绑定域名|购买和绑定域名]]
 
 --- 
 联系方式：yuqi.qin@outlook.com
