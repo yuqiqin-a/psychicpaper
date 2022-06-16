@@ -29,7 +29,7 @@
 
 ###  建站
 1. [[D-Source/使用Obsidian搭建免费的个人博客|使用Obsidian搭建免费的个人博客]]
-2. [[D-Source/购买和绑定域名|购买和绑定域名]]
+2. [[D-Source/如何购买和绑定域名|如何购买和绑定域名]]
 
 --- 
 联系方式：yuqi.qin@outlook.com
