@@ -2,15 +2,17 @@
 {"dg-publish":true,"permalink":"/c-indice/d-ouput/home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-# Psychic Paper
+# 通灵卡片Psychic Paper
 ## 简介
-欢迎来到我的数字花园，我给它取名叫做[Psychic Paper](https://tardis.fandom.com/wiki/Psychic_paper)，这里是我分享工作和学习的个人博客。和通灵卡片一样，这里存放着我希望你能看到、了解的所有内容。
+欢迎来到我的数字花园，这里是我分享工作和学习的个人博客。
 
-这个博客的内容是由我记录在[Obsidian](https://obsidian.md)的笔记整理而成，涵盖我工作的方方面面，关键词有**英语教研、语言学、出版、产品和计算机技术（以Python为主）**。我现在在成都一家互联网教育公司当英语编辑，主要工作是为APP制作线上教学内容，偶尔会帮出版团队从调研到交付制作出版物，你可以在[Linkedin](https://www.linkedin.com/in/yuqi-qin-13a5b5160/)看到我的过往经历。
+我给它取名叫做通灵卡片（[Psychic Paper](https://tardis.fandom.com/wiki/Psychic_paper)），这是来自英国国宝级科幻电视剧《神秘博士》中的一个小道具，它本身是一片空白的，但是看着它的人会在卡片上看到使用者想让他们看到的内容。这个博客和通灵卡片一样，存放着我希望你能看到的、了解的关于我的所有内容。
 
-你可以在这个[[D-Source/About Yuqi Qin|这里]]看到关于我的更多内容。
+这个博客的内容是由我记录在[Obsidian](https://obsidian.md)的笔记整理而成，涵盖我工作的方方面面，关键词有**英语教研、语言学、出版、产品和计算机技术（以Python为主）**。
 
-这个博客是使用Obsidian社区插件[Digital Garden](https://github.com/obsidianMkdocs/obsidian-github-publisher)搭配服务器提供商[Netlify](https://app.netlify.com/teams/yuqiqin-a/overview)搭建成博客。如果你也想做一个类似的网站，你可以看我写的[[D-Source/使用Obsidian搭建免费的个人博客|这篇文章]]。如果你想了解我如何使用Obsidian记笔记，你可以看看我写的《[[我是怎么使用Obsidian的|我是怎么使用Obsidian的]]》。
+我现在在成都一家互联网教育公司当英语编辑，主要工作是为APP制作线上教学内容，偶尔会帮出版团队从调研到交付制作出版物。你可以在[Linkedin](https://www.linkedin.com/in/yuqi-qin-13a5b5160/)看到我的过往经历，以及在这个[[D-Source/Yuqi Qin Now|Now Page]]了解我现在正在做的事。
+
+这个博客是使用Obsidian社区插件[Digital Garden](https://github.com/obsidianMkdocs/obsidian-github-publisher)搭配服务器提供商[Netlify](https://app.netlify.com/teams/yuqiqin-a/overview)搭建成博客。如果你也想做一个类似的网站，你可以看我写的[[D-Source/使用Obsidian搭建免费的个人博客|这篇文章]]。如果你想了解我如何使用Obsidian记笔记，你可以看看我写的《[[D-Source/我是怎么使用Obsidian的-5oiR|我是怎么使用Obsidian的]]》。
 
 这个博客目前刚刚建成，每隔1-2天都会有新的内容更新，记得久不久回来看看噢！
 
@@ -29,10 +31,11 @@
 2. [[D-Source/背单词软件们的词根词缀问题6IOM|背单词软件们的词根词缀问题]] ==New==
 
 ###  建站
-1. [[D-Source/使用Obsidian搭建免费的个人博客|使用Obsidian搭建免费的个人博客]]
-2. [[E-Misc/如何购买和绑定自定义域名-5aaC|如何购买和绑定自定义域名]]
+1. [[D-Source/我是怎么使用Obsidian的-5oiR|我是怎么使用Obsidian的]] 
+2.  [[D-Source/使用Obsidian搭建免费的个人博客|使用Obsidian搭建免费的个人博客]]
+3. [[D-Source/如何购买和绑定自定义域名5aaC|如何购买和绑定自定义域名]]
 
 --- 
 联系方式：yuqi.qin@outlook.com
 
-最后更新时间：2022-06-17
+最后更新时间：2022-06-18
