@@ -10,14 +10,14 @@
 
 这个博客的内容是由我记录在[Obsidian](https://obsidian.md)的笔记整理而成，涵盖我工作的方方面面，关键词有**英语教研、语言学、出版、产品和计算机技术（以Python为主）**。
 
-我现在在成都一家互联网教育公司当英语编辑，主要工作是为APP制作线上教学内容，偶尔会帮出版团队从调研到交付制作出版物。你可以在[Linkedin](https://www.linkedin.com/in/yuqi-qin-13a5b5160/)看到我的过往经历，以及在这个[[D-Source/Yuqi Qin Now|Now Page]]了解我现在正在做的事。
+我现在在成都一家互联网教育公司当英语编辑，主要工作是为APP制作线上教学内容，偶尔会帮出版团队从调研到交付制作出版物。你可以在[Linkedin](https://www.linkedin.com/in/yuqi-qin-13a5b5160/)看到我的过往经历。
 
 这个博客是使用Obsidian社区插件[Digital Garden](https://github.com/obsidianMkdocs/obsidian-github-publisher)搭配服务器提供商[Netlify](https://app.netlify.com/teams/yuqiqin-a/overview)搭建成博客。如果你也想做一个类似的网站，你可以看我写的[[D-Source/使用Obsidian搭建免费的个人博客|这篇文章]]。如果你想了解我如何使用Obsidian记笔记，你可以看看我写的《[[D-Source/我是怎么使用Obsidian的-5oiR|我是怎么使用Obsidian的]]》。
 
 
 ## 文章列表
 ### 技术
-1. [[D-Source/从石墨表格到Excel，再到石墨表格|从石墨表格到Excel，再到石墨表格]] ==New==
+1. [[D-Source/从石墨表格到Excel，再到石墨表格|从石墨表格到Excel，再到石墨表格]] 
 2. [[D-Source/使用多进程提高搜索真题句子的速度-5L2|使用多进程提高搜索真题句子的速度]]
 3. [[D-Source/使用微软语音合成API批量合成拆分的音节|使用微软语音合成API批量合成拆分的音节]] 
 4. [[D-Source/使用sqlite和etree读取字典APP的数据文件|使用sqlite和etree读取字典APP的数据文件]] 
@@ -29,10 +29,11 @@
 10. [[D-Source/写Python脚本给不会编程的同事处理文本|写Python脚本给不会编程的同事处理文本]]
 
 ### 教研
-1. [[D-Source/什么叫做常用词？5LuA|什么叫做常用词？]] 
-2. [[D-Source/统计和展示单词真题词频的问题-57uf|统计和展示单词真题词频的问题]] 
-3. [[D-Source/权威字典们的单词音节划分问题|权威字典们的单词音节划分问题]]
-4. [[D-Source/背单词软件们的词根词缀问题6IOM|背单词软件们的词根词缀问题]]
+1. [[D-Source/我是如何使用chatGPT助力编辑工作的|我是如何使用chatGPT助力编辑工作的]] ==New==
+2. [[D-Source/什么叫做常用词？5LuA|什么叫做常用词？]] 
+3. [[D-Source/统计和展示单词真题词频的问题-57uf|统计和展示单词真题词频的问题]] 
+4. [[D-Source/权威字典们的单词音节划分问题|权威字典们的单词音节划分问题]]
+5. [[D-Source/背单词软件们的词根词缀问题6IOM|背单词软件们的词根词缀问题]]
 
 ###  建站
 1. [[D-Source/我是怎么使用Obsidian的-5oiR|我是怎么使用Obsidian的]] 
@@ -42,7 +43,7 @@
 ---
 联系方式：yuqi.qin@outlook.com
 
-最后更新时间：2022-10-11
+最后更新时间：2023-01-04
 
 本博客感谢grt，Koni，Draco，雲さん，Johnson的大力支持
 
