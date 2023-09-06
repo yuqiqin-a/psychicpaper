@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/xpath/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/d-source/xpath/"}
 ---
 
 # 使用xpath爬取字典内容
