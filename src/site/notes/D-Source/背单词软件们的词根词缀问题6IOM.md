@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/6-iom/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/d-source/6-iom/"}
 ---
 
 # 背单词软件们的词根词缀问题
