@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/nltk/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/d-source/nltk/"}
 ---
 
 # 使用NLTK统计真题词频以及搜索真题句子
