@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/obsidian/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/d-source/obsidian/"}
 ---
 
 # 使用Obsidian搭建免费的个人博客
@@ -52,7 +52,7 @@ dg-publish: true
 3. 国内访问友好
 4. 便捷
 5. 支持css配置
-6. 支持[[如何购买和绑定域名|自定义域名]]
+6. 支持[[如何购买和绑定域名\|自定义域名]]
 
 Obsidian Publish功能需要一个月$16，甚至比大多数购买域名+购买博客服务器+Github的解决方案还要贵。
 
