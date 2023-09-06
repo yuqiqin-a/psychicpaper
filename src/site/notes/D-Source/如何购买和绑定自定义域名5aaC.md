@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/5aa-c/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/d-source/5aa-c/"}
 ---
 
 # 如何购买和绑定自定义域名
