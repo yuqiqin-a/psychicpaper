@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/pandas-docx/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/d-source/pandas-docx/"}
 ---
 
 # 使用pandas和docx一键生成出版稿件
