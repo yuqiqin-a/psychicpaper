@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/python/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/d-source/python/"}
 ---
 
 # 写Python脚本给不会编程的同事处理文本
