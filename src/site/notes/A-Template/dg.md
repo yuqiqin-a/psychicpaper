@@ -1,3 +1,3 @@
 ---
-{"dg-publish":true,"permalink":"/a-template/dg/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/a-template/dg/"}
 ---
