@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/api/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/d-source/api/"}
 ---
 
 # 使用微软语音合成API批量合成拆分的音节
 ## 背景
-继[[D-Source/使用xpath爬取字典内容|使用xpath爬取字典]]中的音节划分之后，后续还有任务是要制作拆分后的音节的读音。
+继[[D-Source/使用xpath爬取字典内容\|使用xpath爬取字典]]中的音节划分之后，后续还有任务是要制作拆分后的音节的读音。
 
 如果找真人录音的话，成本比较高，而且需要反复纠正录音师许多发音细节（例如避免句重音和并列短语造成的音韵变化），会消耗很多时间和精力。成本最低的办法是使用语音合成的软件或者API批量生成。具体的实现办法有很多，这里就不再赘述。
 
