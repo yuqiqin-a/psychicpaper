@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/yuqi-qin-now/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/d-source/yuqi-qin-now/"}
 ---
 
 # 我现在在做什么
