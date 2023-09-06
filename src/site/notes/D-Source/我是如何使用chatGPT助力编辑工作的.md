@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/chat-gpt/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/d-source/chat-gpt/"}
 ---
 
 # 我是如何使用chatGPT助力编辑工作的
