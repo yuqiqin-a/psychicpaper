@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/excel/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/d-source/excel/"}
 ---
 
 # 从石墨表格到Excel，再到石墨表格
