@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/obsidian-5oi-r/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/d-source/obsidian-5oi-r/"}
 ---
 
 # 我是怎么使用Obsidian的
@@ -118,7 +118,7 @@ C-Indice 是存放索引的地方。
 
 **Digital Garden**
 
-用来发布博客用的，具体可以参考[[D-Source/使用Obsidian搭建免费的个人博客|使用Obsidian搭建免费的个人博客]]
+用来发布博客用的，具体可以参考[[D-Source/使用Obsidian搭建免费的个人博客\|使用Obsidian搭建免费的个人博客]]
 
 **Editor Syntax Highlight**
 
