@@ -10,7 +10,7 @@
 
 这个博客的内容是由我记录在[Obsidian](https://obsidian.md)的笔记整理而成，涵盖我工作的方方面面，关键词有**英语教研、语言学、出版、产品和计算机技术（以Python为主）**。
 
-我毕业后在成都一家互联网教育公司工作了2年，职位是当英语编辑，主要工作是为APP制作线上学习内容，现已离职。现在在成都一家中型成人英语教培机构担任英语老师，主要教授雅思听力口语、朗思听力口语、PTE口语以及基础的语法和语音课程。你可以在[[D-Source/过往经历\|这里]]查看我的过往经历。
+我毕业后在成都一家互联网教育公司工作了2年，职位是当英语编辑，主要工作是为APP制作线上学习内容，现已离职。现在在成都一家中型成人英语教培机构担任英语老师，主要教授雅思听力口语、朗思听力口语、PTE口语以及基础的语法和语音课程。你可以在[[D-Source/过往经历-12ef\|这里]]查看我的过往经历。
 
 这个博客是使用Obsidian社区插件[Digital Garden](https://github.com/obsidianMkdocs/obsidian-github-publisher)搭配服务器提供商[Netlify](https://app.netlify.com/teams/yuqiqin-a/overview)搭建成博客。如果你也想做一个类似的网站，你可以看我写的[[D-Source/使用Obsidian搭建免费的个人博客\|这篇文章]]。如果你想了解我如何使用Obsidian记笔记，你可以看看我写的《[[D-Source/我是怎么使用Obsidian的-5oiR\|我是怎么使用Obsidian的]]》。
 
