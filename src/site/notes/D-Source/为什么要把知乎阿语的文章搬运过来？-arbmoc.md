@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/d-source/arbmoc/"}
 ---
 
-# 为什么要把知乎的文章搬运过来？
+# 为什么要把知乎阿语的文章搬运过来？
 
 最近在B站刷到了[2016年央视阿拉伯语大赛](https://www.bilibili.com/video/BV1334y1V7kz)的视频，重拾对阿语的兴趣，一直在用[Drops](https://languagedrops.com/)背单词，每天5-10分钟还挺轻松的，感觉记起了很多单词。
 
