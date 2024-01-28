@@ -40,6 +40,9 @@
 9. [[D-Source/使用pandas和docx一键生成出版稿件\|使用pandas和docx一键生成出版稿件]]
 10. [[D-Source/写Python脚本给不会编程的同事处理文本\|写Python脚本给不会编程的同事处理文本]]
 
+### 语言学习
+1. [[D-Source/我在英国学阿拉伯语-arbmoc\|我在英国学阿拉伯语]]（原发布于知乎）
+
 ###  建站
 1. [[D-Source/我是怎么使用Obsidian的-5oiR\|我是怎么使用Obsidian的]] 
 2.  [[D-Source/使用Obsidian搭建免费的个人博客\|使用Obsidian搭建免费的个人博客]]
@@ -48,7 +51,7 @@
 ---
 联系方式：yuqi.qin@outlook.com
 
-最后更新时间：2023-01-04
+最后更新时间：2023-01-28
 
 本博客感谢grt，Koni，Draco，雲さん，Johnson的大力支持
 
