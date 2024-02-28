@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C-Indice/Home/","tags":["gardenEntry"],"created":"2023-09-21T09:27:51.000+08:00","updated":"2024-02-28T13:03:32.092+08:00"}
+{"dg-publish":true,"permalink":"/C-Indice/Home/","tags":["gardenEntry"],"created":"2023-09-21T09:27:51.000+08:00"}
 ---
 
 # 通灵卡片Psychic Paper
