@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D-Source/如果是前司会怎么做？上试听课的心得感悟-5oKf/"}
+{"dg-publish":true,"permalink":"/D-Source/如果是前司会怎么做？上试听课的心得感悟-5oKf/","created":"2023-09-07T11:48:20.000+08:00","updated":"2023-09-07T11:48:20.000+08:00"}
 ---
 
 # 如果是前司会怎么做呢？上试听课的心得感悟
