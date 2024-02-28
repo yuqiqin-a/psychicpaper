@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/3-on/"}
+{"dg-publish":true,"permalink":"/D-Source/我在英国学阿拉伯语3——地狱模式ON/"}
 ---
 
 # 我在英国学阿拉伯语3——地狱模式ON
