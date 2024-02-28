@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/21-inna/"}
+{"dg-publish":true,"permalink":"/D-Source/我在英国学阿拉伯语21——尾柔词和inna姐妹/"}
 ---
 
 # 我在英国学阿拉伯语21——尾柔词和inna姐妹
