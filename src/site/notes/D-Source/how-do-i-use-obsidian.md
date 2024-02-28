@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D-Source/how-do-i-use-obsidian/","created":"2023-01-04T15:59:36.000+08:00","updated":"2024-02-28T10:49:57.335+08:00"}
+{"dg-publish":true,"permalink":"/D-Source/how-do-i-use-obsidian/","created":"2023-01-04T15:59:36.000+08:00"}
 ---
 
 # 我是怎么使用Obsidian的
