@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D-Source/use-pandas-and-docs-to-auto-generate-draft/","created":"2022-06-16T16:16:57.000+08:00","updated":"2022-06-16T16:16:57.000+08:00"}
+{"dg-publish":true,"permalink":"/D-Source/use-pandas-and-docs-to-auto-generate-draft/","created":"2022-06-16T16:16:57.000+08:00"}
 ---
 
 # 使用pandas和docx一键生成出版稿件
