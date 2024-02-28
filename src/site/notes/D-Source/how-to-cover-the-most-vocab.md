@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D-Source/how-to-cover-the-most-vocab/","created":"2022-06-28T16:36:33.000+08:00","updated":"2022-06-28T16:36:33.000+08:00"}
+{"dg-publish":true,"permalink":"/D-Source/how-to-cover-the-most-vocab/","created":"2022-06-28T16:36:33.000+08:00"}
 ---
 
 # 200篇高考文章选60篇，怎么选覆盖的考纲词汇最多？
