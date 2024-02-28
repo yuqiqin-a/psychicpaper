@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D-Source/use-xpath-to-craw-dict/","created":"2022-06-15T09:59:46.000+08:00","updated":"2022-06-15T09:59:46.000+08:00"}
+{"dg-publish":true,"permalink":"/D-Source/use-xpath-to-craw-dict/","created":"2022-06-15T09:59:46.000+08:00"}
 ---
 
 # 使用xpath爬取字典内容
