@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D-Source/python-scrpt-for-collegues-to-use/","created":"2022-06-15T09:59:13.000+08:00","updated":"2022-06-15T09:59:13.000+08:00"}
+{"dg-publish":true,"permalink":"/D-Source/python-scrpt-for-collegues-to-use/","created":"2022-06-15T09:59:13.000+08:00"}
 ---
 
 # 写Python脚本给不会编程的同事处理文本
