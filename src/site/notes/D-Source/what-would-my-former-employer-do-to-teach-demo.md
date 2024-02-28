@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D-Source/what-would-my-former-employer-do-to-teach-demo/","created":"2023-09-07T11:48:20.000+08:00","updated":"2023-09-07T11:48:20.000+08:00"}
+{"dg-publish":true,"permalink":"/D-Source/what-would-my-former-employer-do-to-teach-demo/","created":"2023-09-07T11:48:20.000+08:00"}
 ---
 
 # 如果是前司会怎么做呢？上试听课的心得感悟
