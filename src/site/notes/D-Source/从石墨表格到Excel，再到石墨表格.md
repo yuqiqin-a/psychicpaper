@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/excel/"}
+{"dg-publish":true,"permalink":"/D-Source/从石墨表格到Excel，再到石墨表格/"}
 ---
 
 # 从石墨表格到Excel，再到石墨表格
