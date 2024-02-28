@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/nltk/"}
+{"dg-publish":true,"permalink":"/D-Source/使用NLTK统计真题词频以及搜索真题句子/"}
 ---
 
 # 使用NLTK统计真题词频以及搜索真题句子
