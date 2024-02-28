@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D-Source/learn-arabic-in-uk/","created":"2024-01-28T21:06:56.724+08:00","updated":"2024-02-28T10:35:36.091+08:00"}
+{"dg-publish":true,"permalink":"/D-Source/learn-arabic-in-uk/","created":"2024-01-28T21:06:56.724+08:00"}
 ---
 
 # 我在英国学阿拉伯语系列
