@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/obsidian/"}
+{"dg-publish":true,"permalink":"/D-Source/使用Obsidian搭建免费的个人博客/"}
 ---
 
 # 使用Obsidian搭建免费的个人博客
