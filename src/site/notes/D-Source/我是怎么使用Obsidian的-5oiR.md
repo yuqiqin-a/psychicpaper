@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/obsidian-5oi-r/"}
+{"dg-publish":true,"permalink":"/D-Source/我是怎么使用Obsidian的-5oiR/"}
 ---
 
 # 我是怎么使用Obsidian的
