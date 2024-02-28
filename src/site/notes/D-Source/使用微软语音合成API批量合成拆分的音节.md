@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/api/"}
+{"dg-publish":true,"permalink":"/D-Source/使用微软语音合成API批量合成拆分的音节/"}
 ---
 
 # 使用微软语音合成API批量合成拆分的音节
