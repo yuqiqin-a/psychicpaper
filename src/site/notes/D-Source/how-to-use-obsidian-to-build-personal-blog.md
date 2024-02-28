@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D-Source/how-to-use-obsidian-to-build-personal-blog/","created":"2022-06-16T18:04:33.000+08:00","updated":"2022-06-16T18:04:33.000+08:00"}
+{"dg-publish":true,"permalink":"/D-Source/how-to-use-obsidian-to-build-personal-blog/","created":"2022-06-16T18:04:33.000+08:00"}
 ---
 
 # 使用Obsidian搭建免费的个人博客
