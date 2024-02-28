@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D-Source/使用sqlite和etree读取字典APP的数据文件/"}
+{"dg-publish":true,"permalink":"/D-Source/使用sqlite和etree读取字典APP的数据文件/","created":"2022-06-22T17:13:26.000+08:00","updated":"2022-06-22T17:13:26.000+08:00"}
 ---
 
 # 使用sqlite和etree读取字典APP的数据文件
