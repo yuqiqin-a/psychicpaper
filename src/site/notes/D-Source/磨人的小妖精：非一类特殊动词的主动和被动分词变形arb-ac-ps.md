@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/arb-ac-ps/"}
+{"dg-publish":true,"permalink":"/D-Source/磨人的小妖精：非一类特殊动词的主动和被动分词变形arb-ac-ps/"}
 ---
 
 # 磨人的小妖精：非一类特殊动词的主动和被动分词变形
