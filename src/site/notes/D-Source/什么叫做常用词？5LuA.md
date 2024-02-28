@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/5-lu-a/"}
+{"dg-publish":true,"permalink":"/D-Source/什么叫做常用词？5LuA/"}
 ---
 
 # 什么叫做常用词？
