@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/pydub/"}
+{"dg-publish":true,"permalink":"/D-Source/使用pydub切分音频/"}
 ---
 
 # 使用pydub切分音频
