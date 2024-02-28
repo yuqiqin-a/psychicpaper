@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D-Source/define-high-freq-words/","created":"2022-08-11T16:36:50.000+08:00","updated":"2022-08-11T16:36:50.000+08:00"}
+{"dg-publish":true,"permalink":"/D-Source/define-high-freq-words/","created":"2022-08-11T16:36:50.000+08:00"}
 ---
 
 # 什么叫做常用词？
