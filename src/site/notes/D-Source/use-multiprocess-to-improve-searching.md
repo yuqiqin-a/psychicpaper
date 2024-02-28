@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D-Source/use-multiprocess-to-improve-searching/","created":"2022-07-22T15:42:12.000+08:00","updated":"2024-02-28T10:46:10.423+08:00"}
+{"dg-publish":true,"permalink":"/D-Source/use-multiprocess-to-improve-searching/","created":"2022-07-22T15:42:12.000+08:00"}
 ---
 
 # 使用多进程提高搜索真题句子的速度
