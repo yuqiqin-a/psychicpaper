@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/xpath/"}
+{"dg-publish":true,"permalink":"/D-Source/使用xpath爬取字典内容/"}
 ---
 
 # 使用xpath爬取字典内容
