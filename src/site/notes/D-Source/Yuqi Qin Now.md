@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/yuqi-qin-now/"}
+{"dg-publish":true,"permalink":"/D-Source/Yuqi Qin Now/"}
 ---
 
 # 我现在在做什么
