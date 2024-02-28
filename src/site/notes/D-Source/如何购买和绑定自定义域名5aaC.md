@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D-Source/如何购买和绑定自定义域名5aaC/"}
+{"dg-publish":true,"permalink":"/D-Source/如何购买和绑定自定义域名5aaC/","created":"2022-06-16T19:30:08.000+08:00","updated":"2022-06-16T19:30:08.000+08:00"}
 ---
 
 # 如何购买和绑定自定义域名
