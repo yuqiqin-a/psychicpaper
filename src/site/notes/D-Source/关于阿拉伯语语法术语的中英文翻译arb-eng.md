@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/arb-eng/"}
+{"dg-publish":true,"permalink":"/D-Source/关于阿拉伯语语法术语的中英文翻译arb-eng/"}
 ---
 
 # 关于阿拉伯语语法术语的中英文翻译
