@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/5oi-r/"}
+{"dg-publish":true,"permalink":"/D-Source/我的试听课设计：概述-5oiR/"}
 ---
 
 
