@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D-Source/我是如何使用chatGPT助力编辑工作的/"}
+{"dg-publish":true,"permalink":"/D-Source/我是如何使用chatGPT助力编辑工作的/","created":"2023-01-04T15:56:24.000+08:00","updated":"2023-01-04T15:56:24.000+08:00"}
 ---
 
 # 我是如何使用chatGPT助力编辑工作的
