@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/5aa-c/"}
+{"dg-publish":true,"permalink":"/D-Source/如何购买和绑定自定义域名5aaC/"}
 ---
 
 # 如何购买和绑定自定义域名
