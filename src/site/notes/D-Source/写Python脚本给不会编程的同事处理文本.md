@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/python/"}
+{"dg-publish":true,"permalink":"/D-Source/写Python脚本给不会编程的同事处理文本/"}
 ---
 
 # 写Python脚本给不会编程的同事处理文本
