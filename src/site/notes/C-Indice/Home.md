@@ -1,8 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/C-Indice/Home/","tags":["gardenEntry"],"created":"2023-09-21T09:27:51.000+08:00","updated":"2024-02-28T11:55:16.067+08:00"}
+{"dg-publish":true,"permalink":"/C-Indice/Home/","tags":["gardenEntry"],"created":"2023-09-21T09:27:51.000+08:00","updated":"2024-02-28T13:03:32.092+08:00"}
 ---
 
 # 通灵卡片Psychic Paper
+
+
+> [!NOTE] Ah-oh!
+> 最近刚刚升级1.6版本的[Digital Garden](https://github.com/obsidianMkdocs/obsidian-github-publisher)插件，博客的主题大变样，正在一个个尝试看看哪个最好看。如果你点进来被丑到了，请见谅！
+
+
 ## 简介
 欢迎来到我的数字花园，这里是我分享工作和学习的个人博客。
 
