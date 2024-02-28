@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/chat-gpt/"}
+{"dg-publish":true,"permalink":"/D-Source/我是如何使用chatGPT助力编辑工作的/"}
 ---
 
 # 我是如何使用chatGPT助力编辑工作的
