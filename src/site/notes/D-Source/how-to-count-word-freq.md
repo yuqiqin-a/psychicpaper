@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D-Source/how-to-count-word-freq/","created":"2022-07-22T15:23:55.000+08:00","updated":"2024-02-28T10:46:10.417+08:00"}
+{"dg-publish":true,"permalink":"/D-Source/how-to-count-word-freq/","created":"2022-07-22T15:23:55.000+08:00"}
 ---
 
 # 统计和展示单词真题词频的问题
