@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/6-iom/"}
+{"dg-publish":true,"permalink":"/D-Source/背单词软件们的词根词缀问题6IOM/"}
 ---
 
 # 背单词软件们的词根词缀问题
