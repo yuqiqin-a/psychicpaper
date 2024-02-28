@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/c-indice/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/C-Indice/Home/","tags":["gardenEntry"]}
 ---
 
 # 通灵卡片Psychic Paper
@@ -19,8 +19,8 @@
 
 ## 文章列表
 ### 教研
-1. [[D-Source/我的试听课设计：雅思听力-5ZCs\|我的试听课设计：雅思听力]] ==New==
-2. [[D-Source/我的试听课设计：概述-5oiR\|我的试听课设计：概述]] ==New==
+1. [[D-Source/我的试听课设计：雅思听力-5ZCs\|我的试听课设计：雅思听力]] 
+2. [[D-Source/我的试听课设计：概述-5oiR\|我的试听课设计：概述]] 
 3. [[D-Source/如果是前司会怎么做？上试听课的心得感悟-5oKf\|如果是前司会怎么做？上试听课的心得感悟]] 
 4. [[D-Source/我是如何使用chatGPT助力编辑工作的\|我是如何使用chatGPT助力编辑工作的]] 
 5. [[D-Source/什么叫做常用词？5LuA\|什么叫做常用词？]] 
@@ -29,16 +29,17 @@
 8. [[D-Source/背单词软件们的词根词缀问题6IOM\|背单词软件们的词根词缀问题]]
 
 ### 技术
-1. [[D-Source/从石墨表格到Excel，再到石墨表格\|从石墨表格到Excel，再到石墨表格]] 
-2. [[D-Source/使用多进程提高搜索真题句子的速度-5L2\|使用多进程提高搜索真题句子的速度]]
-3. [[D-Source/使用微软语音合成API批量合成拆分的音节\|使用微软语音合成API批量合成拆分的音节]] 
-4. [[D-Source/使用sqlite和etree读取字典APP的数据文件\|使用sqlite和etree读取字典APP的数据文件]] 
-5. [[D-Source/200篇高考文章选60篇，怎么选覆盖的考纲词汇最多？\|200篇高考文章选60篇，怎么选覆盖的考纲词汇最多？]]  
-6. [[D-Source/使用NLTK统计真题词频以及搜索真题句子\|使用NLTK统计真题词频以及搜索真题句子]]
-7. [[D-Source/使用xpath爬取字典内容\|使用xpath爬取字典内容]]
-8. [[D-Source/使用pydub切分音频\|使用pydub切分音频]]
-9. [[D-Source/使用pandas和docx一键生成出版稿件\|使用pandas和docx一键生成出版稿件]]
-10. [[D-Source/写Python脚本给不会编程的同事处理文本\|写Python脚本给不会编程的同事处理文本]]
+1. [[D-Source/当英语老师之后你还写代码吗？\|当英语老师之后你还写代码吗？]]==New==
+2. [[D-Source/从石墨表格到Excel，再到石墨表格\|从石墨表格到Excel，再到石墨表格]] 
+3. [[D-Source/使用多进程提高搜索真题句子的速度-5L2\|使用多进程提高搜索真题句子的速度]]
+4. [[D-Source/使用微软语音合成API批量合成拆分的音节\|使用微软语音合成API批量合成拆分的音节]] 
+5. [[D-Source/使用sqlite和etree读取字典APP的数据文件\|使用sqlite和etree读取字典APP的数据文件]] 
+6. [[D-Source/200篇高考文章选60篇，怎么选覆盖的考纲词汇最多？\|200篇高考文章选60篇，怎么选覆盖的考纲词汇最多？]]  
+7. [[D-Source/使用NLTK统计真题词频以及搜索真题句子\|使用NLTK统计真题词频以及搜索真题句子]]
+8. [[D-Source/使用xpath爬取字典内容\|使用xpath爬取字典内容]]
+9. [[D-Source/使用pydub切分音频\|使用pydub切分音频]]
+10. [[D-Source/使用pandas和docx一键生成出版稿件\|使用pandas和docx一键生成出版稿件]]
+11. [[D-Source/写Python脚本给不会编程的同事处理文本\|写Python脚本给不会编程的同事处理文本]]
 
 ###  建站
 1. [[D-Source/我是怎么使用Obsidian的-5oiR\|我是怎么使用Obsidian的]] 
@@ -75,7 +76,7 @@
 ---
 联系方式：yuqi.qin@outlook.com
 
-最后更新时间：2024-01-28
+最后更新时间：2024-02-28
 
 本博客感谢grt，Koni，Draco，雲さん，Johnson的大力支持
 
