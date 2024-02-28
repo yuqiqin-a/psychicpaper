@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-source/arbmoc/"}
+{"dg-publish":true,"permalink":"/D-Source/为什么要把知乎阿语的文章搬运过来？-arbmoc/"}
 ---
 
 # 为什么要把知乎阿语的文章搬运过来？
