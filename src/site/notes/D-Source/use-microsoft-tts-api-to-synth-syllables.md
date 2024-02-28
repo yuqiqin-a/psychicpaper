@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D-Source/use-microsoft-tts-api-to-synth-syllables/","created":"2022-06-29T23:30:04.000+08:00","updated":"2024-02-28T10:46:30.152+08:00"}
+{"dg-publish":true,"permalink":"/D-Source/use-microsoft-tts-api-to-synth-syllables/","created":"2022-06-29T23:30:04.000+08:00"}
 ---
 
 # 使用微软语音合成API批量合成拆分的音节
