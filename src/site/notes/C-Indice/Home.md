@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/C-Indice/Home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/C-Indice/Home/","tags":["gardenEntry"],"created":"2023-09-21T09:27:51.000+08:00","updated":"2024-02-28T10:29:04.741+08:00"}
 ---
 
 # 通灵卡片Psychic Paper
@@ -19,7 +19,7 @@
 
 ## 文章列表
 ### 教研
-1. [[D-Source/我的试听课设计：雅思听力-5ZCs\|我的试听课设计：雅思听力]] 
+1. [[D-Source/demo-design-for-ielts-listening\|我的试听课设计：雅思听力]] 
 2. [[D-Source/我的试听课设计：概述-5oiR\|我的试听课设计：概述]] 
 3. [[D-Source/如果是前司会怎么做？上试听课的心得感悟-5oKf\|如果是前司会怎么做？上试听课的心得感悟]] 
 4. [[D-Source/我是如何使用chatGPT助力编辑工作的\|我是如何使用chatGPT助力编辑工作的]] 
@@ -29,7 +29,7 @@
 8. [[D-Source/背单词软件们的词根词缀问题6IOM\|背单词软件们的词根词缀问题]]
 
 ### 技术
-1. [[D-Source/当英语老师之后你还写代码吗？\|当英语老师之后你还写代码吗？]]==New==
+1. [[D-Source/do-you-still-write-codes\|当英语老师之后你还写代码吗？]]==New==
 2. [[D-Source/从石墨表格到Excel，再到石墨表格\|从石墨表格到Excel，再到石墨表格]] 
 3. [[D-Source/使用多进程提高搜索真题句子的速度-5L2\|使用多进程提高搜索真题句子的速度]]
 4. [[D-Source/使用微软语音合成API批量合成拆分的音节\|使用微软语音合成API批量合成拆分的音节]] 
