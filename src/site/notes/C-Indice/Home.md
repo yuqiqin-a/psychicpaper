@@ -42,6 +42,9 @@
 10. [[D-Source/使用pandas和docx一键生成出版稿件\|使用pandas和docx一键生成出版稿件]]
 11. [[D-Source/写Python脚本给不会编程的同事处理文本\|写Python脚本给不会编程的同事处理文本]]
 
+### 回忆
+1. [[D-Source/勇闯CYA的791天（1）——理想与现实的差距\|勇闯CYA的791天（1）——理想与现实的差距]] ==New==
+
 ###  建站
 1. [[D-Source/我是怎么使用Obsidian的\|我是怎么使用Obsidian的]] 
 2.  [[D-Source/使用Obsidian搭建免费的个人博客\|使用Obsidian搭建免费的个人博客]]
