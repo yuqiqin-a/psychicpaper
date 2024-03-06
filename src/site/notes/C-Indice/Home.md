@@ -43,7 +43,7 @@
 11. [[D-Source/写Python脚本给不会编程的同事处理文本\|写Python脚本给不会编程的同事处理文本]]
 
 ### 回忆
-1. [[D-Source/勇闯CYA的791天（1）——理想与现实的差距\|勇闯CYA的791天（1）——理想与现实的差距]] ==New==
+1. [[D-Source/odessey-to-cya-part1\|勇闯CYA的791天（1）——理想与现实的差距]] ==New==
 
 ###  建站
 1. [[D-Source/我是怎么使用Obsidian的\|我是怎么使用Obsidian的]] 
