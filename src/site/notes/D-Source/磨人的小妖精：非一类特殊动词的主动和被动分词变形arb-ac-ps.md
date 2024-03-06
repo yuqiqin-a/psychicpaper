@@ -24,7 +24,7 @@
 
 第七类动词不接受第一个根母为柔母的词，故主动分词和被动分词都不存在
 
-![](https://pic2.zhimg.com/80/v2-d503d3d2e219d7ddc0264a0034aadec9_720w.webp)
+![v2-d503d3d2e219d7ddc0264a0034aadec9_720w.png](/img/user/B-Attachment/v2-d503d3d2e219d7ddc0264a0034aadec9_720w.png)
 
   
 
@@ -32,7 +32,7 @@
 
 标红的是不听话的柔母
 
-![](https://pic2.zhimg.com/80/v2-1c31aebbb8c9d8ad8e271a336836db89_720w.webp)
+![v2-1c31aebbb8c9d8ad8e271a336836db89_720w.webp](/img/user/B-Attachment/v2-1c31aebbb8c9d8ad8e271a336836db89_720w.webp)
 
   
 
@@ -40,15 +40,14 @@
 
 尾柔的复数变形简直想死…… 这里主动分词是加tanwin kasra，被动分词是tanwin fatha，这里的tanwin不影响格，如果需要变格（比如宾格），则把柔母加回来并加上alif+tanwin fatha
 
-![](https://pic3.zhimg.com/80/v2-6bb0ed3072ff8aed1456a7def09d1d12_720w.webp)
-
+![v2-6bb0ed3072ff8aed1456a7def09d1d12_720w.webp](/img/user/B-Attachment/v2-6bb0ed3072ff8aed1456a7def09d1d12_720w.webp)
   
 
 **重母动词**
 
 看看人家重母动词，多省事，第三类和第六类动词直接不存在
 
-![](https://pic1.zhimg.com/80/v2-c2b766d02dfe0df9c8aad6090d0fbc08_720w.webp)
+![v2-c2b766d02dfe0df9c8aad6090d0fbc08_720w.webp](/img/user/B-Attachment/v2-c2b766d02dfe0df9c8aad6090d0fbc08_720w.webp)
 
 ---
 原文发布于知乎2018-02-27
