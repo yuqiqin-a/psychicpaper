@@ -19,6 +19,10 @@
 
 
 ## 文章列表
+### 回忆
+1. [[D-Source/odessey-to-cya-part2\|勇闯CYA的791天（2）——生活就是一盒巧克力]] ==New==
+2. [[D-Source/odessey-to-cya-part1\|勇闯CYA的791天（1）——理想与现实的差距]]
+
 ### 教研
 1. [[D-Source/demo-design-for-ielts-listening\|我的试听课设计：雅思听力]] 
 2. [[D-Source/demo-design\|我的试听课设计：概述]] 
@@ -42,9 +46,6 @@
 10. [[D-Source/使用pandas和docx一键生成出版稿件\|使用pandas和docx一键生成出版稿件]]
 11. [[D-Source/写Python脚本给不会编程的同事处理文本\|写Python脚本给不会编程的同事处理文本]]
 
-### 回忆
-1. [[D-Source/odessey-to-cya-part1\|勇闯CYA的791天（1）——理想与现实的差距]] ==New==
-
 ###  建站
 1. [[D-Source/我是怎么使用Obsidian的\|我是怎么使用Obsidian的]] 
 2.  [[D-Source/使用Obsidian搭建免费的个人博客\|使用Obsidian搭建免费的个人博客]]
@@ -57,7 +58,7 @@
 ---
 联系方式：yuqi.qin@outlook.com
 
-最后更新时间：2024-03-06
+最后更新时间：2024-03-14
 
 本博客感谢日天，杨哥，Draco，雲さん，Johnson的大力支持
 
