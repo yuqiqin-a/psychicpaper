@@ -11,7 +11,7 @@
 
 这个博客的内容是由我记录在[Obsidian](https://obsidian.md)的笔记整理而成，涵盖我工作的方方面面，关键词有**英语教研、语言学、产品和计算机技术（以Python为主）**，现在偶尔也会分享一些生活感悟和回忆。
 
-我毕业后在成都一家互联网教育公司工作了2年，职位是当英语编辑，主要工作是为APP制作线上学习内容，现已离职。现在在成都一家中型成人英语教培机构担任英语老师，主要教授雅思听力口语、朗思听力口语、PTE口语以及基础的语法和语音课程。
+我毕业后在成都一家互联网教育公司工作了2年，职位是当英语编辑，主要工作是为APP制作线上学习内容，现已离职。现在在成都一家中型成人英语教培机构担任英语老师，主要教授雅思、朗思、PTE的听力和口语。
 
 这个博客是使用Obsidian社区插件[Digital Garden](https://github.com/obsidianMkdocs/obsidian-github-publisher)搭配服务器提供商[Netlify](https://app.netlify.com/teams/yuqiqin-a/overview)搭建成博客。如果你也想做一个类似的网站，你可以看我写的[[D-Source/使用Obsidian搭建免费的个人博客\|这篇文章]]。如果你想了解我如何使用Obsidian记笔记，你可以看看我写的《[[D-Source/我是怎么使用Obsidian的\|我是怎么使用Obsidian的]]》。
 
@@ -20,31 +20,32 @@
 
 ## 文章列表
 ### 回忆
-1. [[D-Source/odessey-to-cya-part2\|勇闯CYA的791天（2）——生活就是一盒巧克力]] ==New==
-2. [[D-Source/odessey-to-cya-part1\|勇闯CYA的791天（1）——理想与现实的差距]]
+1. [[D-Source/odessey-to-cya-part3\|勇闯CYA的791天（3）——「这些残暴的欢愉终将以残暴为结局」]] ==New==
+2. [[D-Source/odessey-to-cya-part2\|勇闯CYA的791天（2）——生活就是一盒巧克力]] 
+3. [[D-Source/odessey-to-cya-part1\|勇闯CYA的791天（1）——理想与现实的差距]]
 
 ### 教研
 1. [[D-Source/demo-design-for-ielts-listening\|我的试听课设计：雅思听力]] 
 2. [[D-Source/demo-design\|我的试听课设计：概述]] 
-3. [[D-Source/如果是前司会怎么做呢？上试听课的心得感悟\|如果是前司会怎么做呢？上试听课的心得感悟]] 
-4. [[D-Source/我是如何使用chatGPT助力编辑工作的\|我是如何使用chatGPT助力编辑工作的]] 
-5. [[D-Source/什么叫做常用词？\|什么叫做常用词？]] 
-6. [[D-Source/统计和展示单词真题词频的问题\|统计和展示单词真题词频的问题]] 
-7. [[D-Source/权威字典们的单词音节划分问题\|权威字典们的单词音节划分问题]]
-8. [[D-Source/背单词软件们的词根词缀问题\|背单词软件们的词根词缀问题]]
+3. [[D-Source/what-would-former-employer-do-demo-exp\|如果是前司会怎么做呢？上试听课的心得感悟]] 
+4. [[D-Source/how-i-use-chatgpt\|我是如何使用chatGPT助力编辑工作的]] 
+5. [[D-Source/what-are-common-words\|什么叫做常用词？]] 
+6. [[D-Source/probs-with-word-freq\|统计和展示单词真题词频的问题]] 
+7. [[D-Source/syllabification-in-dict\|权威字典们的单词音节划分问题]]
+8. [[D-Source/probs-with-affixes\|背单词软件们的词根词缀问题]]
 
 ### 技术
-1. [[D-Source/当英语老师之后你还写代码吗？\|当英语老师之后你还写代码吗？]]==New==
-2. [[D-Source/从石墨表格到Excel，再到石墨表格\|从石墨表格到Excel，再到石墨表格]] 
+1. [[D-Source/当英语老师之后你还写代码吗？\|当英语老师之后你还写代码吗？]]
+2. [[D-Source/from-shimo-to-excel-to-shimo\|从石墨表格到Excel，再到石墨表格]] 
 3. [[D-Source/使用多进程提高搜索真题句子的速度\|使用多进程提高搜索真题句子的速度]]
-4. [[D-Source/使用微软语音合成API批量合成拆分的音节\|使用微软语音合成API批量合成拆分的音节]] 
-5. [[D-Source/使用sqlite和etree读取字典APP的数据文件\|使用sqlite和etree读取字典APP的数据文件]] 
+4. [[D-Source/use-microsoft-api-to-tts\|使用微软语音合成API批量合成拆分的音节]] 
+5. [[D-Source/use-sqlite-and-etree-to-read-dict-app\|使用sqlite和etree读取字典APP的数据文件]] 
 6. [[D-Source/200篇高考文章选60篇，怎么选覆盖的考纲词汇最多？\|200篇高考文章选60篇，怎么选覆盖的考纲词汇最多？]]  
-7. [[D-Source/使用NLTK统计真题词频以及搜索真题句子\|使用NLTK统计真题词频以及搜索真题句子]]
-8. [[D-Source/使用xpath爬取字典内容\|使用xpath爬取字典内容]]
+7. [[D-Source/use-nltk-to-count-word-freq-and-sent-origin\|使用NLTK统计真题词频以及搜索真题句子]]
+8. [[D-Source/use-xpath-to-scrape-dict\|使用xpath爬取字典内容]]
 9. [[D-Source/使用pydub切分音频\|使用pydub切分音频]]
 10. [[D-Source/使用pandas和docx一键生成出版稿件\|使用pandas和docx一键生成出版稿件]]
-11. [[D-Source/写Python脚本给不会编程的同事处理文本\|写Python脚本给不会编程的同事处理文本]]
+11. [[D-Source/python-script-for-newbees\|写Python脚本给不会编程的同事处理文本]]
 
 ###  建站
 1. [[D-Source/我是怎么使用Obsidian的\|我是怎么使用Obsidian的]] 
@@ -58,7 +59,9 @@
 ---
 联系方式：yuqi.qin@outlook.com
 
-最后更新时间：2024-03-14
+Telegram频道：https://t.me/psychcpp
+
+最后更新时间：2024-04-05
 
 本博客感谢日天，杨哥，Draco，雲さん，Johnson的大力支持
 
