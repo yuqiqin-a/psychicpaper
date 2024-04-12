@@ -5,7 +5,7 @@
 # 通灵卡片Psychic Paper
 
 ## 简介
-欢迎来到我的数字花园，这里是我分享工作和学习的个人博客。
+欢迎来到我的[数字花园](https://www.zhihu.com/question/400660802)，这里是我分享工作和学习的个人博客。
 
 我给它取名为通灵卡片（[Psychic Paper](https://tardis.fandom.com/wiki/Psychic_paper)），这是来自英国国宝级科幻电视剧《神秘博士》中的一个小道具，它本身是一张空白的卡片，但是看着它的人会在卡片上看到使用者想让他们看到的内容。这个博客和通灵卡片一样，存放着我希望你能看到的、了解的关于我的所有内容。
 
@@ -61,9 +61,10 @@
 
 Telegram频道：https://t.me/psychcpp
 
-最后更新时间：2024-04-05
+最后更新时间：2024-04-12
 
 本博客感谢日天，杨哥，Draco，雲さん，Johnson的大力支持
 
 友情链接：
 - [gaoryrt的博客](https://gaoryrt.com/)
+- [无穷小驴](https://irethemelon.cc/)
