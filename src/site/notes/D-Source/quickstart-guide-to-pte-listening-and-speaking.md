@@ -64,14 +64,14 @@ content是唯一有技术含量的板块，看的是多大程度上总结了听�
 市面上大部分的模板都是大概是以下风格：
 > 流派1：
 > 
-> 1. The picture mainly talks about
+> 1. The lecture mainly talks about
 > 2. Firstly, the speaker agrees that...
 > 3. Also, he mentions that...
 > 4. Finally, the speaker believes that...
 > 5. In conclusion, it is an informative lecture.
 
 > 流派2：
-> 1. This picture mainly talks about (   ) which would involve  (   )
+> 1. This lecture mainly talks about (   ) which would involve  (   )
 > 2. Firstly, they have mentioned  (   ) and  (   ), related to  (   ) and  (   ) due to  (   ) and  (   ).
 > 3. Secondly, they have mentioned  (   ) and  (   ).
 > 4. Therefore  (   ) can be proved by  (   ) and  (   ).
