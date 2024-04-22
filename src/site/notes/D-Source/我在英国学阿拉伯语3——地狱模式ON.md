@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D-Source/我在英国学阿拉伯语3——地狱模式ON/","created":"2024-01-28T21:22:29.940+08:00"}
+{"dg-publish":true,"dg-permalink":"hell-mode-on","permalink":"/hell-mode-on/","created":"2024-01-28T21:22:29.940+08:00"}
 ---
 
 # 我在英国学阿拉伯语3——地狱模式ON
