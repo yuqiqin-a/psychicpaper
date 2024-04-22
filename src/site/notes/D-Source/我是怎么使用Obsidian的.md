@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/D-Source/我是怎么使用Obsidian的/","created":"2023-01-04T15:59:36.000+08:00"}
+{"dg-publish":true,"dg-permalink":"how-i-use-obsidian-2022","permalink":"/how-i-use-obsidian-2022/","created":"2023-01-04T15:59:36.000+08:00"}
 ---
 
 # 我是怎么使用Obsidian的
