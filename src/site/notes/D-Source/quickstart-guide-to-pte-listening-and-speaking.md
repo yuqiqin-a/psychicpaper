@@ -3,6 +3,9 @@
 ---
 
 
+> [!NOTE] Info
+> 此文章仍在码字中，现在先发出来是因为有同事紧急需要一些信息做参考
+
 # PTE听力口语快速备课指南
 
 ## 概况
@@ -16,7 +19,6 @@
 [分数对比](https://assets.ctfassets.net/yqwtwibiobs4/3Bm0RMkKoNVOoOxUe38mg4/f565a92a97e8f3cf60c5506d347dedb8/PTE_Academic_Score_Guide_for_Test_Takers_June_2023.pdf)
 [分数对比](https://www.pearsonpte.com/pte-academic/scoring/understand-your-score)
 
-适合什么考生
 
 
 ## 听力备课
