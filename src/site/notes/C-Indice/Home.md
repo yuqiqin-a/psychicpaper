@@ -26,14 +26,15 @@
 4. [[D-Source/odessey-to-cya-part1\|勇闯CYA的791天（1）——理想与现实的差距]]
 
 ### 教研
-1. [[D-Source/demo-design-for-ielts-listening\|我的试听课设计：雅思听力]] 
-2. [[D-Source/demo-design\|我的试听课设计：概述]] 
-3. [[D-Source/what-would-former-employer-do-demo-exp\|如果是前司会怎么做呢？上试听课的心得感悟]] 
-4. [[D-Source/how-i-use-chatgpt\|我是如何使用chatGPT助力编辑工作的]] 
-5. [[D-Source/what-are-common-words\|什么叫做常用词？]] 
-6. [[D-Source/probs-with-word-freq\|统计和展示单词真题词频的问题]] 
-7. [[D-Source/syllabification-in-dict\|权威字典们的单词音节划分问题]]
-8. [[D-Source/probs-with-affixes\|背单词软件们的词根词缀问题]]
+1. [[D-Source/quickstart-guide-to-pte-listening-and-speaking\|PTE听力口语快速备课指南]]
+2. [[D-Source/demo-design-for-ielts-listening\|我的试听课设计：雅思听力]] 
+3. [[D-Source/demo-design\|我的试听课设计：概述]] 
+4. [[D-Source/what-would-former-employer-do-demo-exp\|如果是前司会怎么做呢？上试听课的心得感悟]] 
+5. [[D-Source/how-i-use-chatgpt\|我是如何使用chatGPT助力编辑工作的]] 
+6. [[D-Source/what-are-common-words\|什么叫做常用词？]] 
+7. [[D-Source/probs-with-word-freq\|统计和展示单词真题词频的问题]] 
+8. [[D-Source/syllabification-in-dict\|权威字典们的单词音节划分问题]]
+9. [[D-Source/probs-with-affixes\|背单词软件们的词根词缀问题]]
 
 ### 技术
 1. [[D-Source/当英语老师之后你还写代码吗？\|当英语老师之后你还写代码吗？]]
@@ -62,10 +63,11 @@
 
 Telegram频道：https://t.me/psychcpp
 
-最后更新时间：2024-04-18
+最后更新时间：2024-04-22
 
 本博客感谢日天，杨哥，Draco，雲さん，Johnson的大力支持
 
 友情链接：
 - [gaoryrt的博客](https://gaoryrt.com/)
+- [无尽之书](https://www.irethemelon.me)
 - [无穷小驴](https://irethemelon.cc/)
