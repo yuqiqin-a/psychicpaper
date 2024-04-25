@@ -59,11 +59,11 @@
 
 
 ---
-联系方式：yuqi.qin@outlook.com
+联系方式：
+- 邮箱：yuqi.qin@outlook.com
+- Telegram频道：https://t.me/psychcpp
 
-Telegram频道：https://t.me/psychcpp
-
-最后更新时间：2024-04-22
+最后更新时间：2024-04-25
 
 本博客感谢日天，杨哥，Draco，雲さん，Johnson的大力支持
 
