@@ -23,6 +23,8 @@
 
 整体的PTE考试介绍我推荐留洋PTE的Irina老师的[视频](https://www.youtube.com/results?search_query=PTE%E4%BB%8B%E7%BB%8D)。详细的题型和评分标准可以在[这里](https://assets.ctfassets.net/yqwtwibiobs4/3Bm0RMkKoNVOoOxUe38mg4/f565a92a97e8f3cf60c5506d347dedb8/PTE_Academic_Score_Guide_for_Test_Takers_June_2023.pdf)找到，这是官网上的文件，信息最全面也最权威。
 
+练习用的网站可以使用[猩际](https://www.ptexj.com/zh-CN/pte/user_center/home?type=home)或者[萤火虫](https://www.fireflyau.com/home?t=all)，评分都需要开会员。猩际的做题流程以及社区互动做得更好一些，更适合学生。萤火虫对老师更友好，因为题目分了难度以及考点。
+
 以下是我对我在授的听力和口语课程的快速备课经验。
 
 
