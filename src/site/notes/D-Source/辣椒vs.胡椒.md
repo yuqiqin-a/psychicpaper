@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-permalink":"peppers","permalink":"/peppers/","created":"2024-05-14T09:53:36.963+08:00"}
 ---
 
+# 辣椒vs.胡椒
+
 前段时间学到فلفل (fulful) 「胡椒」这个单词，因为拼写很特别，很快就记住了。
 ![Pasted image 20240514095641.png](/img/user/B-Attachment/Pasted%20image%2020240514095641.png)
 
